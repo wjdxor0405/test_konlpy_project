@@ -52,7 +52,9 @@ git push -u origin main
 git add .
 git commit -m '테스트 파일들 추가'
 
-
+# 3. 커밋한 다음, GitHub 로 전송 : 푸쉬(push)
+# 3가지 방법 중 선택
+git push
 
 
 
